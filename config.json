@@ -1,6 +1,6 @@
 {
     "interval": 1000,
-    "serverPort": 1350,
+    "serverPort": 1330,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
     "notifyWhenOnKeywordMatch": true,
@@ -23,7 +23,7 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "http://oneness287.com/sitemap_products_1.xml"
+        "http://www.machusonline.com/sitemap_products_1.xml"
         
     ],
     "keywords": [
