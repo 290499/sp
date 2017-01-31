@@ -1,6 +1,6 @@
 {
     "interval": 1000,
-    "serverPort": 1380,
+    "serverPort": 1322,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
     "notifyWhenOnKeywordMatch": true,
@@ -23,7 +23,7 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "http://packershoes.com/sitemap_products_1.xml"
+        "http://sneakerpolitics.com/sitemap_products_1.xml"
         
     ],
     "keywords": [
