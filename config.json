@@ -1,6 +1,6 @@
 {
     "interval": 1000,
-    "serverPort": 1330,
+    "serverPort": 1332,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
     "notifyWhenOnKeywordMatch": true,
@@ -23,7 +23,7 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "http://www.machusonline.com/sitemap_products_1.xml"
+        "http://www.xhibition.co/sitemap_products_1.xml?from=4603663748&to=8541398609"
         
     ],
     "keywords": [
